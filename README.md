@@ -1,4 +1,3 @@
-# code-wars-solutions
 # Codewars Exercises
 
 ## 8
